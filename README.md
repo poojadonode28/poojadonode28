@@ -6,7 +6,7 @@
 
 
 
-[![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojadonode28&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)</br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojadonode28)](https://github.com/anuraghazra/github-readme-stats)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poojadonode28&theme=tokyonight)</br>
 
 
